@@ -1,8 +1,9 @@
 /**
-   Arduino Electronic Safe
+   Caja fuerte electrónica Arduino
 
-   Copyright (C) 2020, Uri Shaked.
-   Released under the MIT License.
+   Copyright (C) 2020,Uri shaked.
+   
+   Publicado bajo la licencia de MIT.
 */
 
 #include <LiquidCrystal.h>
